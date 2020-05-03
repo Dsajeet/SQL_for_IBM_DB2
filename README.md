@@ -1,2 +1,5 @@
-# SQL_for_IBM_DB2
-this repositotry usedful for sql learner and all content comming from IBM data science  course from coursera
+# Udacity_blog_post
+Write a blog post  Airbnb  data. and data analysis on the Airbnb  data
+
+
+
